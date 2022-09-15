@@ -4,8 +4,7 @@ title: Home
 
 # Hydrology Lab at THL
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Das [Hydrolab](https://uhydro.github.io) bietet Messtechnik und Expertise im Bereich der Hydrologie. 
 
 {%
   include link.html
