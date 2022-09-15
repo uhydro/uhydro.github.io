@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Hydrology Lab at THL
+description: Labor für Hydrologie und Internationale Wasserwirtschaft
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,12 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: christoph.kuells@th-luebeck.de
+  google-scholar: Prof. Dr. Christoph Külls
+  github: uhydro
+  twitter: ckuells
+  instagram: ckuells
+  youtube: https://www.youtube.com/channel/UCw6PgcKlcxyqTHKCNqzpT7Q
 
 ### advanced settings
 
